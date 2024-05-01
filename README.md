@@ -60,4 +60,4 @@ Apply a p5.LowPass filter to a p5.SoundFile. Visualize the sound with FFT. Map m
 
 [Wavemaker](https://p5js.org/examples/interaction-wavemaker.html)
 WaveMaker can be used with the mouse to control the direction of the waves in the particle oscillations, producing interactive screen effects.
-![Wavemaker](assets/WaveMaker%20-original-original.gif)
+![Wavemaker](https://github.com/XuanyuZhang-xzha0656/xzha0656_Quiz_8/blob/main/assets/WaveMaker%20-original-original.gif?raw=true)
