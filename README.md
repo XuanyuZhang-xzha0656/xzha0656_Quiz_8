@@ -27,15 +27,37 @@ In a major project we can also use music visualization to make the painting chan
 
 ## Part2 Coding Technique Exploration
 
+
+
 [Note Envelope](https://p5js.org/zh-Hans/examples/sound-note-envelope.html)
+
+Note envelope can be used to play back the amplitude of the audio by controlling the output and creating a fade-in/fade-out effect.
+
+![Note envelope](assets/NoteEnvelope.jpeg)
+![Note envelope](assets/note_envelope.jpeg)
+
 
 [Oscillator Frequency](https://p5js.org/zh-Hans/examples/sound-oscillator-frequency.html)
 (*Notice: Example sound is a bit harsh, please lower the volume before opening this link!*)
+Control an Oscillator and view the waveform using FFT.
+![Oscillator Frequency](assets/Oscillator_Frequency.png)
+
+
 
 [Frequency Spectrum](https://p5js.org/zh-Hans/examples/sound-frequency-spectrum.html)
+Visualize the frequency spectrum of live audio input.
+![Frequency Spectrum](assets/Frequency_Spectrum.jpeg)
+
+
+
 
 [Filter LowPass](https://p5js.org/zh-Hans/examples/sound-filter-lowpass.html)
+Apply a p5.LowPass filter to a p5.SoundFile. Visualize the sound with FFT. Map mouseX to the the filter's cutoff frequency and mouseY to resonance/width of the a BandPass filter.
+![Filter LowPass](assets/Filter_LowPass_1.png)
+![Filter LowPass](assets/Filter_LowPass_2.png)
 
-[Filter BandPass](https://p5js.org/zh-Hans/examples/sound-filter-bandpass.html)
+
 
 [Wavemaker](https://p5js.org/examples/interaction-wavemaker.html)
+WaveMaker can be used with the mouse to control the direction of the waves in the particle oscillations, producing interactive screen effects.
+![Wavemaker](assets/WaveMaker%20-original-original.gif)
